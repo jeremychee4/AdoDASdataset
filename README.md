@@ -36,7 +36,7 @@ Instead, AdoDAS provides **anonymized latent representations and temporal metada
 
 **Train Set:** https://drive.google.com/drive/folders/1OyjFeAlYFDYKcFtL_232rDSHTeEpVGQe?usp=sharing
 
-**Validation Set** https://drive.google.com/drive/folders/1io1O2hOhvM-OpG7mFssuKsVzRK-F5lN7?usp=sharing
+**Validation Set:** https://drive.google.com/drive/folders/1io1O2hOhvM-OpG7mFssuKsVzRK-F5lN7?usp=sharing
 
 To obtain the **decryption password** for the dataset, please complete the following steps before contacting us:
 
