@@ -68,14 +68,11 @@ For each run, directories are organized as:
 
 ## Annotations：
 ### File Types
-- A01：	"The North Wind and the Sun" standardized reading passage.
-  - 有一回，北风跟太阳在那儿争论谁的本领大。说着说着，来了一个过路的，身上穿了一件厚袍子。他们俩就商量好了，说谁能先叫这个过路的把他的袍子脱下来，就算是他的本领大。北风就使劲吹起来，拼命地吹。可是，他吹得越厉害，那个人就把他的袍子裹得越紧。到末了儿，北风没辙了，只好就算了。一会儿，太阳出来一晒，那个人马上就把袍子脱了下来。所以，北风不得不承认，还是太阳比他的本领大。
+- A01：	Read the standardized paragragh.
+  - "Once, the North Wind and the Sun were arguing about which of them was more powerful. As they were talking, a traveler came along, wearing a thick coat. They agreed that whoever could make the traveler take off his coat first would be considered the stronger. The North Wind blew as hard as he could, with all his might. But the harder he blew, the more tightly the traveler wrapped his coat around himself. In the end, the North Wind gave up. Soon after, the Sun came out and shone warmly, and the traveler immediately took off his coat. So the North Wind had to admit that the Sun was indeed stronger."
 - B01：Please describe how your day went yesterday.
-  - 请描述一下，你昨天过的怎么样?
 - B02：Please describe your happiest memory from the past week.
-  - 请描述一下，现在回想最近一周最开心的记忆?
 - B03：Please describe your saddest memory from the past week.
-  - 请描述一下，现在回想最近一周最悲伤的记忆?
 
 ### Auxiliary Attributes
 1. Family structure
