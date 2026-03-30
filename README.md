@@ -38,6 +38,14 @@ Instead, AdoDAS provides **anonymized latent representations and temporal metada
 
 **Validation Set** https://drive.google.com/drive/folders/1io1O2hOhvM-OpG7mFssuKsVzRK-F5lN7?usp=sharing
 
+To obtain the **decryption password** for the dataset, please complete the following steps before contacting us:
+
+1. **Download the AdoDAS Dataset License Agreement PDF**: [User License Agreement](https://github.com/jeremychee4/AdoDASdataset/blob/main/license.pdf) (must be signed by a full-time faculty member or researcher; applications not following this rule may be ignored).  
+2. **Carefully review the agreement**. It outlines the usage specifications, restrictions, and the responsibilities and obligations of the licensee. Please ensure you fully understand all terms and conditions.  
+3. **Manually sign the agreement by hand** after confirming your acceptance of the terms, and fill in all required fields.  
+4. **Submit the signed agreement** via email to: `k3nwong@seu.edu.cn`  
+   Keep `qitianhua@seu.edu.cn` and `luozhaojie@seu.edu.cn` in CC.
+
 Access is granted **for academic research only** and requires agreement with the dataset license and ethical usage terms.
 
 ---
