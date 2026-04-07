@@ -38,6 +38,8 @@ Instead, AdoDAS provides **anonymized latent representations and temporal metada
 
 **Validation Set:** https://drive.google.com/drive/folders/1io1O2hOhvM-OpG7mFssuKsVzRK-F5lN7?usp=sharing
 
+**Test Set:** https://drive.google.com/drive/folders/1BGg5sfeCc5yRFoA3YA20QM-imERU4fFU?usp=drive_link
+
 To obtain the **decryption password** for the dataset, please complete the following steps before contacting us:
 
 1. **Download the AdoDAS Dataset License Agreement PDF**: [User License Agreement](https://github.com/jeremychee4/AdoDASdataset/blob/main/license.pdf) (must be signed by a full-time faculty member or researcher; applications not following this rule may be ignored).  
